@@ -25,10 +25,7 @@ Estou sempre em busca de novos desafios, aprendizados e da minha primeira oportu
 ## 🚀 Tecnologias e Ferramentas
 <img align="left" alt="C" title="C" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C#" title="C#" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
-<img align="left" alt="HTML" title="HTML" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="VS Code" title="VS Code" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Java" title="Java" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <br />
 <br />
 
