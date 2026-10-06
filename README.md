@@ -3,7 +3,7 @@
 e estes são os meus conhecimentos e curiosidades sobre desenvolvimento
 
 <details>
-  <summary> More about me</summary>
+  <summary> Mais sobre mim</summary>
   <div>
   
  ``` js
@@ -22,7 +22,7 @@ e estes são os meus conhecimentos e curiosidades sobre desenvolvimento
 </details>
 
 <details>
-  <summary> Main projects links </summary>
+  <summary> Projetos principais </summary>
   <div>
   
  - [CLICK ME TO SEE THE DRAFT PROJECT](https://pouthergust.github.io/pouthergust/)
