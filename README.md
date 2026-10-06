@@ -42,12 +42,9 @@ Estudante de ADS na FATEC Sorocaba
 
 ## Tecnologias utilizadas
 
-| Languages                                                                                                          | Frameworks                                                                                                      | more                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Javascript](https://skillicons.dev/icons?i=c)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) | ![Angular, React, Vue](https://skillicons.dev/icons?i=angular,react,vue)                                        | ![Angular, React, Vue](https://skillicons.dev/icons?i=ts,nodejs,deno) ![Vtex](https://img.shields.io/badge/VTEX-F71964?style=for-the-badge&logo=vtex&logoColor=white) |
-| [![Elixir](https://skillicons.dev/icons?i=elixir)](https://elixir-lang.org/docs.html)                              | ![Phoenix](https://img.shields.io/badge/Phoenix-F15523?style=for-the-badge&logo=elixir-phoenix&logoColor=white) |                                                                                                                                                                       |
-| [![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/)                                     | ![Flask](https://skillicons.dev/icons?i=flask)                                                                  |
+| Languages                                                                                                 | Frameworks                                                                                                      | more                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![C](https://skillicons.dev/icons?i=c)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) | ![Angular, React, Vue](https://skillicons.dev/icons?i=angular,react,vue)                                        | ![Angular, React, Vue](https://skillicons.dev/icons?i=ts,nodejs,deno) ![Vtex](https://img.shields.io/badge/VTEX-F71964?style=for-the-badge&logo=vtex&logoColor=white) |
+| [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/pt-br/dotnet/csharp/)              | ![Phoenix](https://img.shields.io/badge/Phoenix-F15523?style=for-the-badge&logo=elixir-phoenix&logoColor=white) |
 
-IN PROGRESS... 🚧
-
-#NeverStopLearning🚀
+Em progresso 🚧
