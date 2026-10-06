@@ -8,8 +8,8 @@ and this is my knowledge and curiosities about development
   
  ``` js
  const aboutMe = {
-     name: 'Gabriel Henrique',
-     title: 'Dev & Designer',
+     name: 'Guilherme Firmino da Silva',
+     title: 'Estudantes de ADS',
      knowledge: ['Web Development', 'UX/UI design', 'Graphic Design'],
      motivation: [
          'Expand my knowledge and perspective',
