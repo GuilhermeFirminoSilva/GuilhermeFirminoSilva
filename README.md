@@ -32,7 +32,7 @@ e estes são os meus conhecimentos e curiosidades sobre desenvolvimento
   </div>
 </details>
 
-[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-henrique-5a562020a/)
+[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](hwww.linkedin.com/in/guilherme-firmino-da-silva-b93986176)
 
 ## WhoAmI?
 
