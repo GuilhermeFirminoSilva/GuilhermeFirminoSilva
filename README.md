@@ -1,6 +1,6 @@
 # Olá Mundo! Eu sou o Guilherme 😄🖖
 
-and this is my knowledge and curiosities about development
+e estes são os meus conhecimentos e curiosidades sobre desenvolvimento
 
 <details>
   <summary> More about me</summary>
