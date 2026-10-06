@@ -34,19 +34,19 @@ e estes são os meus conhecimentos e curiosidades sobre desenvolvimento
 
 [![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-firmino-da-silva-b93986176)
 
-## WhoAmI?
+## Quem sou eu?
 
-I am a Graphic Designer who is eager to learn more about programming
+Estudante de ADS na FATEC Sorocaba
 
 <!-- ![Gabriel's GitHub status](https://github-readme-stats.vercel.app/api?username=pouthergust&theme=omni&show_icons=true&) -->
 
-## Main Technologies
+## Tecnologias utilizadas
 
-| Languages                                                                                                   | Frameworks                                                                                                      | more                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Javascript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | ![Angular, React, Vue](https://skillicons.dev/icons?i=angular,react,vue)                                        | ![Angular, React, Vue](https://skillicons.dev/icons?i=ts,nodejs,deno) ![Vtex](https://img.shields.io/badge/VTEX-F71964?style=for-the-badge&logo=vtex&logoColor=white) |
-| [![Elixir](https://skillicons.dev/icons?i=elixir)](https://elixir-lang.org/docs.html)                       | ![Phoenix](https://img.shields.io/badge/Phoenix-F15523?style=for-the-badge&logo=elixir-phoenix&logoColor=white) |                                                                                                                                                                       |
-| [![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/)                              | ![Flask](https://skillicons.dev/icons?i=flask)                                                                  |
+| Languages                                                                                                          | Frameworks                                                                                                      | more                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Javascript](https://skillicons.dev/icons?i=c)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) | ![Angular, React, Vue](https://skillicons.dev/icons?i=angular,react,vue)                                        | ![Angular, React, Vue](https://skillicons.dev/icons?i=ts,nodejs,deno) ![Vtex](https://img.shields.io/badge/VTEX-F71964?style=for-the-badge&logo=vtex&logoColor=white) |
+| [![Elixir](https://skillicons.dev/icons?i=elixir)](https://elixir-lang.org/docs.html)                              | ![Phoenix](https://img.shields.io/badge/Phoenix-F15523?style=for-the-badge&logo=elixir-phoenix&logoColor=white) |                                                                                                                                                                       |
+| [![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/)                                     | ![Flask](https://skillicons.dev/icons?i=flask)                                                                  |
 
 IN PROGRESS... 🚧
 
