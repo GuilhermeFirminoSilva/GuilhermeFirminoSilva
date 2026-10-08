@@ -1,50 +1,42 @@
-# Olá Mundo! Eu sou o Guilherme 😄🖖
+# Olá! Eu sou Guilherme Firmino da Silva 
 
-e estes são os meus conhecimentos e curiosidades sobre desenvolvimento
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba**
 
-<details>
-  <summary> Mais sobre mim</summary>
-  <div>
-  
- ``` js
- const aboutMe = {
-     name: 'Guilherme Firmino da Silva',
-     title: 'Estudantes de ADS',
-     knowledge: ['Web Development', 'UX/UI design', 'Graphic Design'],
-     motivation: [
-         'Expand my knowledge and perspective',
-         'Make my projects more creatives'
-     ],
- }
- ```
- 
-  </div>
-</details>
+💻 **Desenvolvedor em formação com foco em C e C#**
 
-<details>
-  <summary> Projetos principais </summary>
-  <div>
-  
- - [CLICK ME TO SEE THE DRAFT PROJECT](https://pouthergust.github.io/pouthergust/)
+🚀 **Buscando oportunidades de estágio na área de Tecnologia**
 
-- [CLICK ME TO SEE THE ALTERNATIVE PROJECT](https://pouthergust.github.io/HelloAlpine/)
+## 💻 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba**, apaixonado por tecnologia e pelo desenvolvimento de soluções que unem lógica, organização e qualidade.
 
-  </div>
-</details>
+Atualmente, estou dedicando meus estudos ao aprofundamento nas linguagens **C** e **C#**.
 
-[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-firmino-da-silva-b93986176)
+Minha experiência profissional prévia na área **administrativa** fortaleceu muito minhas soft skills, trazendo uma base sólida em pensamento analítico, organização, planejamento, resolução de problemas e atenção aos detalhes. Hoje, aplico toda essa bagagem estratégica e organizacional diretamente na escrita de códigos limpos e estruturados.
 
-## Quem sou eu?
+Estou sempre em busca de novos desafios, aprendizados e da minha primeira oportunidade profissional para evoluir como desenvolvedor.
 
-Estudante de ADS na FATEC Sorocaba
+## 🌐 Contato
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-firmino-da-silva-b93986176/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Guilherme" />
+  </a>
+</p>
 
-<!-- ![Gabriel's GitHub status](https://github-readme-stats.vercel.app/api?username=pouthergust&theme=omni&show_icons=true&) -->
+## 🚀 Tecnologias e Ferramentas
+<img align="left" alt="C" title="C" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="C#" title="C#" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="VS Code" title="VS Code" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<br />
+<br />
 
-## Tecnologias utilizadas
+## 🚀 Projetos
+Aqui você encontrará projetos desenvolvidos durante minha graduação na FATEC e em bootcamps complementares, envolvendo:
+- ☕ Desenvolvimento com foco em **C e C#**
+- ⚙️ Algoritmos, Estruturas de Dados e Lógica de Programação
+- 🗄️ Banco de Dados MySQL
+- 🔒 Estudos em **IA**
 
-| Languages                                                                                                 | Frameworks                                                                                                      | more                                                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![C](https://skillicons.dev/icons?i=c)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) | ![Angular, React, Vue](https://skillicons.dev/icons?i=angular,react,vue)                                        | ![Angular, React, Vue](https://skillicons.dev/icons?i=ts,nodejs,deno) ![Vtex](https://img.shields.io/badge/VTEX-F71964?style=for-the-badge&logo=vtex&logoColor=white) |
-| [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/pt-br/dotnet/csharp/)              | ![Phoenix](https://img.shields.io/badge/Phoenix-F15523?style=for-the-badge&logo=elixir-phoenix&logoColor=white) |
+Meus repositórios representam minha constante evolução, buscando explorar meu potencial como desenvolvedor e como analista de sistemas!
+Estou aberto a oportunidades 😉​
 
-Em progresso 🚧
+<br>
